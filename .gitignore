@@ -1,0 +1,12 @@
+# Jupyter and Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local and temporary artifacts
+*.tmp
+Parjet/output1.csv
+
+# OS files
+Thumbs.db
+.DS_Store
