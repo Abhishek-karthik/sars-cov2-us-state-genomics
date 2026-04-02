@@ -14,6 +14,7 @@ output_results/
 output_contours/
 extracted_circles/
 path/
+ppt/
 circle_*_contour.jpg
 circle_*_isolated.jpg
 circles_with_diameters.jpg
