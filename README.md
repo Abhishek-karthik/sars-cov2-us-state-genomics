@@ -12,6 +12,7 @@ This repository contains an end-to-end notebook workflow for analyzing SARS-CoV-
 
 ## Main Notebook
 - bio-finall.ipynb
+- Detailed run and output guide: OUTPUT_AND_RUN_GUIDE.md
 
 ## Key Data and Output Folders
 - CALIFORNIA
