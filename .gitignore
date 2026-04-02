@@ -7,6 +7,31 @@ __pycache__/
 *.tmp
 Parjet/output1.csv
 
+# Non-project artifacts to keep out of repo
+output/
+output_circles/
+output_results/
+output_contours/
+extracted_circles/
+path/
+circle_*_contour.jpg
+circle_*_isolated.jpg
+circles_with_diameters.jpg
+detected_circles.jpg
+inner_circle_contour.jpg
+middle_circle_contour.jpg
+outer_circle_contour.jpg
+nested_circles_*.jpg
+files (1).zip
+files (2).zip
+files (3).zip
+B_Tech_Project_Template.pdf
+test*.ipynb
+Untitled-1.ipynb
+THATPART[[]1].ipynb
+boom.ipynb
+teo.ipynb
+
 # OS files
 Thumbs.db
 .DS_Store

@@ -18,8 +18,6 @@ This repository contains an end-to-end notebook workflow for analyzing SARS-CoV-
 - NEWYORK
 - TEXAS
 - consenses
-- output_circles
-- output_results
 
 ## Typical Outputs
 - State-specific cleaned CSV and FASTA files
